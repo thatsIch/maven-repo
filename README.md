@@ -40,3 +40,8 @@ where `group-id` is generally the namespace of the user on Github,
 </project>
 ```
 
+## Library Listing
+
+* `ddf:minim:2.2.2` A Java audio library, designed to be used with Processing.
+* `nok:soundcloud-java-library:0.2.1` Unofficial Java library, which simplifies the use of the official SoundCloud Java API wrapper.
+* `eustas:CafeUndZopfli:1.0.0` GZip compatible compressor.
